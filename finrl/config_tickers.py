@@ -1430,3 +1430,40 @@ FX_TICKER = [
     "ZARJPY=X",
     "EURDKK=X",
 ]
+
+CRYPTO_TICKER = [
+    "BTC-USD",
+    "BTC-CNY"
+    "BTC-EUR"
+    "BTC-JPY"
+    "ETH-USD",
+    "ETH-CNY",
+    "ETH-EUR",
+    "ETH-JPY",
+    "USDT-USD",
+    "USDT-CNY",
+    "USDT-EUR",
+    "USDT-JPY",
+    "BNB-USD",
+    "ADA-USD",
+    "DOGE-USD",
+    "XRP-USD",
+    "USDC-USD",
+    "DOT1-USD",
+    "UNI3-USD",
+    "ICP1-USD",
+    "BCH-USD",
+    "LTC-USD",
+    "LINK-USD",
+    "SOL1-USD",
+    "HEX-USD",
+    "MATIC-USD",
+    "THETA-USD",
+    "XLM-USD",
+    "VET-USD",
+    "ETC-USD",
+    "FIL-USD",
+    "TRX-USD",
+    "EOS-USD",
+    "XMR-USD",
+]
